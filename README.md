@@ -1,8 +1,9 @@
-INSTRUKCJA BUDOWY TRAKTORKA-ZABAWKI
-Wersja: 2024-07-25
+TOY TRACTOR ASSEMBLY INSTRUCTIONS 
+Version: 2024-07-26
 
 ![image](https://github.com/user-attachments/assets/e1e78bad-fe4a-4708-bca3-ed5d1a03729e)
 
-W instrukcji opisuję budowę zabawki „Traktorek Ursus 385”, którą wykonałem dla mojego wnuka. Projekt ten i inne wykonane przeze mnie, razem z plikami SVG, dostępny jest na stronie https://github.com/ZET-System/ZET-Toy-Tractor. Instruktarzowy film umieściłem na stronie  https://www.youtube.com/channel/UCpifb5z4qqLqFVbfuf9Qllg.
-Pozostałe projekty, które już wykonałem (przyczepka do traktorka, drabina strażacka zdalnie sterowana, dźwig zdalnie sterowany i wiele innych) będą umieszczane w tym samym miejscu na GitHub.
-Chętnie pomogę osobom, które mają wątpliwości dotyczące sposobu budowy tej lub innej zabawki. Pytania proszę przesyłać na adres mailowy zbigniew.wlodarczyk@hotmail.com.
+In the manual, I describe the construction of the toy 'Ursus 385 Tractor', which I made for my grandson. This project, along with other projects and SVG files, is available at https://github.com/ZET-System/ZET-Toy-Tractor.
+I have placed the instructional video at https://www.youtube.com/channel/UCpifb5z4qqLqFVbfuf9Qllg.
+Other projects that I have made, like the tractor trailer, remote-controlled fire ladder, and remote-controlled crane, will be placed in the same location on GitHub.
+I will be happy to help people who have questions about how to build this toy or another toy. Please send your questions to the email address zbigniew.wlodarczyk@hotmail.com.
